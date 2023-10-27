@@ -10,7 +10,7 @@
   <tr>
     <td>1</td>
     <td>Hello World</td>
-    <td>https://github.com/users/NoorHidayahZ/projects/2</td>
+    <td>a href= "https://github.com/users/NoorHidayahZ/projects/2" </td>
     <th><a href="../phase%201/submission" ><img src="../images/folder.png" width="24px" height="24px"></a></th>
   </tr>
   <tr>
